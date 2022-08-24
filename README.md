@@ -2,8 +2,9 @@
 
 ## System
 
-Node v16.15.1
-NPM v8.14.0
+- Node v16.15.1
+- NPM v8.14.0
+- ESLint 8.22
 
 ## How to
 
@@ -28,12 +29,10 @@ with the changes in this section.
 
 ### Working
 
-ESLint 8.22
-typescript-eslint/plugin 5.33.0
-typescript-eslint/parser 5.33.0
+- typescript-eslint/plugin 5.33.0
+- typescript-eslint/parser 5.33.0
 
 ### Broke
 
-ESLint 8.22
-typescript-eslint/plugin 5.34.0
-typescript-eslint/parser 5.34.0
+- typescript-eslint/plugin 5.34.0
+- typescript-eslint/parser 5.34.0
