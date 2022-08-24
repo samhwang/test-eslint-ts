@@ -1,0 +1,13 @@
+{
+  "name": "test-eslint-ts",
+  "version": "1.0.0",
+  "scripts": {
+    "lint": "eslint hello.ts"
+  },
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "5.33.0",
+    "@typescript-eslint/parser": "5.33.0",
+    "eslint": "^8.22.0",
+    "typescript": "^4.7.4"
+  }
+}
